@@ -1,5 +1,5 @@
 [build]
-buildCommand = "mkdocs build"
+buildCommand = "python -m mkdocs build"
 
 [deploy]
 numReplicas = 1
