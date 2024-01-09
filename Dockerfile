@@ -7,5 +7,4 @@ WORKDIR /docs
 # Copier les fichiers de documentation dans le conteneur
 COPY . /docs
 
-# Définir la commande par défaut pour démarrer le serveur de développement
-CMD ["mkdocs", "serve", "-a", "0.0.0.0:8000"]
+RUN mkdocs build
