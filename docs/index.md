@@ -2,7 +2,7 @@
 
 This example implements [Mkdocs](https://github.com/mkdocs/mkdocs) with a custom theme manager [Material for Mkdocs](https://github.com/squidfunk/mkdocs-material) in a containered version
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/mkdocs)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/XOT3Se?referralCode=zOAgi6)
 
 ## ✨ Features
 
