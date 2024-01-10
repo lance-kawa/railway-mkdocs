@@ -12,7 +12,7 @@ Check out the demo – squidfunk.github.io/mkdocs-material.
 
 ## Quickstart
 
-Edit the `mkdocs.yml` to customize your documentation, learn more on [squidfunk.github.io/mkdocs-material][Material for MkDocs]
+Edit the `mkdocs.yml` to customize your documentation, learn more on [Material for MkDocs](squidfunk.github.io/mkdocs-material)
 
 ``` yaml
 theme:
